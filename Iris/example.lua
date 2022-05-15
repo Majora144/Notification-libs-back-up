@@ -1,4 +1,4 @@
-ocal Notification = loadstring(game:HttpGet("https://raw.githubusercontent.com/Majora144/Notification-libs-back-up/main/Iris/main.lua"))()
+local Notification = loadstring(game:HttpGet("https://raw.githubusercontent.com/Majora144/Notification-libs-back-up/main/Iris/main.lua"))()
 
 Notification.WallNotification("God", "Yeet", {
     MainSettings = {
