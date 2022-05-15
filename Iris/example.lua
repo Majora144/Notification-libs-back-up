@@ -22,5 +22,12 @@ Notification.Notify("{ Iris }", "Yeet", "rbxassetid://7258714296", {
         SolidColorEnabled = true,
         SolidColor = Color3.fromRGB(124, 83, 240),
         Retract = true
-    }
+    },
+        Main = {
+			BorderColor3 = Color3.fromRGB(255, 255, 255),
+			BackgroundColor3 = Color3.fromRGB(30, 30, 30),
+			BackgroundTransparency = 0.050,
+			Rounding = true,
+			BorderSizePixel = 1
+		}
 })
